@@ -2,5 +2,50 @@
     "menu_item_home": "Accueil",
     "menu_item_about_us": "À propos de nous",
     "menu_item_services": "Services",
-    "menu_item_contect_us": "Contactez-nous"
+    "menu_item_contact_us": "Contactez-nous",
+
+    "hero_title": "La confidentialité et la fiabilité sont nos points forts.",
+    "hero_sub_title": "Agence de détectives.",
+    "hero_main_button": "Nous contacter",
+    "hero_second_button": "Domaines d'intervention",
+
+    "hero_first_paragraph_title": "Fiabilité",
+    "hero_first_paragraph": "D'anciens membres des forces de l'ordre et des services de renseignement travaillent ici.",
+
+    "hero_second_paragraph_title": "Confidentialité",
+    "hero_second_paragraph": "Nous ne gardons rien. Nous donnons toutes les copies de photos et de vidéos.",
+
+    "hero_third_paragraph_title": "Transparence",
+    "hero_third_paragraph": "Notre tarification est transparente et rentable pour toutes les tailles de cas.",
+
+    "hero_forth_paragraph_title": "Efficacité",
+    "hero_forth_paragraph": "Nous menons chaque affaire à sa conclusion logique et fournissons un rapport.",
+
+    "services_title": "Nos Services",
+    "services_sub_title": "Ce que nous faisons",
+
+    "services_first_paragraph_title": "Concurrence déloyale",
+    "services_first_paragraph": "Soupçons de concurrence déloyale ou d'activités illicites ? Nous menons des enquêtes pour protéger votre entreprise. Contactez-nous dès aujourd'hui.",
+
+    "services_second_paragraph_title": "Particulier",
+    "services_second_paragraph": " Infidélité conjugale : obtenez les preuves nécessaires grâce à notre agence de détectives privés pour une procédure de divorce, une résolution de conflit ou pour prendre des décisions personnelles éclairées.",
+
+    "services_third_paragraph_title": "Recherche Débiteur",
+    "services_third_paragraph": "Besoin de recouvrer une dette? Investipole peut vous aider à localiser votre débiteur en Maroc ou à l'étranger, évaluer sa situation financière et vous accompagner dans les procédures de recouvrement.",
+
+    "services_forth_paragraph_title": "Contrôle de salariés",
+    "services_forth_paragraph": "Protégez votre entreprise contre la fraude et la concurrence déloyale grâce à nos enquêtes. Nos détectives privés collectent des preuves tangibles pour vous aider à prendre des décisions éclairées. Contactez-nous.",
+
+    "services_fifth_paragraph_title": "",
+    "services_fifth_paragraph": "",
+
+    "services_sixth_paragraph_title": "",
+    "services_sixth_paragraph": "",
+
+    "services_seventh_paragraph_title": "",
+    "services_seventh_paragraph": "",
+
+    "services_eighth_paragraph_title": "",
+    "services_eighth_paragraph": ""
+
 }

@@ -1,1 +1,1 @@
-@tailwind base;@tailwind components;@tailwind utilities;body{@apply bg-[#131519] text-white}
+@tailwind base;@tailwind components;@tailwind utilities;body{@apply bg-[#131519] text-white}@media (min-width:1024px){.hidden-lg{display:none}body{overflow-y:scroll}}
