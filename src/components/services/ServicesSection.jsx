@@ -14,9 +14,9 @@ export const ServicesSection = () => {
     <section className="bg-[#17181d] py-20 px-8 xl:px-0">
       <div className="lg:w-[1200px] mx-auto">
         <h4 className="font-bold text-[#616164] text-3xl">
-          Ce que nous faisons
+        {t("services_sub_title")}
         </h4>
-        <h1 className="font-bold text-6xl mt-2">Nos Services</h1>
+        <h1 className="font-bold text-6xl mt-2">{t("services_title")}</h1>
         <div className="grid grid-cols-1 grid-rows-4 md:grid-cols-2 md:grid-rows-2 gap-4 mt-12">
           <ServicesCard
             image={firstService}

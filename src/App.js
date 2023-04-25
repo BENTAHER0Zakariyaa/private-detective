@@ -12,11 +12,11 @@ import {
 import heroImage from "./assets/images/hero.jpg";
 import contectImage from "./assets/images/contect.jpg";
 import contect2Image from "./assets/images/contect-2.jpg";
-import aboutUsImage from "./assets/images/about-us.jpg";
 import { DesktopHeader } from "./components/header/desktop/DesktopHeader";
 import { MobileHeader } from "./components/header/mobile/MobileHeader";
 import { HeroSection } from "./components/hero/HeroSection";
 import { ServicesSection } from "./components/services/ServicesSection";
+import { AboutSection } from "./components/about/AboutSection";
 
 function App() {
   return (
@@ -26,58 +26,7 @@ function App() {
       <main className="z-10">
         <HeroSection />
         <ServicesSection />
-
-        <section className="bg-[#13131a] py-20 px-8 xl:px-0" id="about">
-          <div className="lg:w-[1200px] mx-auto">
-            <div className="flex flex-col space-y-8 lg:flex-row lg:space-y-0 lg:items-center lg:space-x-8">
-              <div className="w-full h-[444px] lg:w-1/2 md:h-[600px]">
-                <img
-                  className="h-full w-full object-cover"
-                  src={aboutUsImage}
-                />
-              </div>
-              <div className="lg:w-1/2">
-                <h4 className="text-4xl text-[#616164] font-bold mb-2">
-                  À propos de nous
-                </h4>
-                <h2 className="text-6xl font-bold">Qui sommes-nous</h2>
-                <div className="mt-12 text-[#b9b9bb] lg:w-[570px]">
-                  <p className="mb-8">
-                    <span className="text-[#6bf]">
-                      L'Agence de Détective Privé "LOGO"
-                    </span>{" "}
-                    est une équipe dynamique de professionnels avec plus de 30
-                    ans d'expérience dans l'investigation dédiée à répondre aux
-                    besoins de sécurité et d'investigation des entreprises et
-                    des particuliers.
-                  </p>
-                  <p className="mb-8">
-                    Nous fournissons à nos clients des services allant des
-                    enquêtes de défense criminelle à la surveillance secrète.
-                  </p>
-                  <p className="mb-8">
-                    Notre agence fournit des services pour les cabinets
-                    d'avocats, les citoyens privés, les compagnies d'assurance,
-                    l'industrie du cannabis, les entreprises et les sociétés,
-                    fournissant des résultats de qualité dans les délais
-                    impartis. Notre entreprise est engagée envers vous, nos
-                    clients, et nous sommes fiers d'être axés sur les résultats.
-                  </p>
-                  <p className="mb-8">
-                    Notre réputation de fiabilité et d'intégrité auprès des
-                    compagnies d'assurance, des cabinets d'avocats, des
-                    corporations, des entités commerciales et des particuliers
-                    fait de{" "}
-                    <span className="text-[#6bf]">
-                      l'Agence de Détective Privé "LOGO"
-                    </span>{" "}
-                    une agence compétitive !
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        <AboutSection />
         <section>
           <div
             className="bg-center bg-cover bg-no-repeat w-full "
